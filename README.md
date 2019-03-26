@@ -14,3 +14,6 @@
 * 필수 설치:  Anaconda의 Rdkit version 2017.03.3, Tensorflow 1.0.1
 
 * 이 코드는 정리되지 않았습니다. 뭔가 발견하시면 망설이지말고 issue 등록해주세요
+
+## IPython 
+[ 코드 돌려보기 (Colab) ](https://colab.research.google.com/github/edwithschoolofai/AI_for_healthcare/blob/master/Healthcare_Drug_Discovery.ipynb)
